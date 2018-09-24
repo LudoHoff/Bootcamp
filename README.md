@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.org/LudoHoff/Bootcamp.svg?branch=master)](https://travis-ci.org/LudoHoff/Bootcamp)
+[![Maintainability](https://api.codeclimate.com/v1/badges/b53e41c6cdaca0f08c8e/maintainability)](https://codeclimate.com/github/LudoHoff/Bootcamp/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/b53e41c6cdaca0f08c8e/test_coverage)](https://codeclimate.com/github/LudoHoff/Bootcamp/test_coverage)
