@@ -36,6 +36,7 @@
         android:layout_marginRight="140dp"
         android:layout_marginStart="148dp"
         android:layout_marginTop="11dp"
+        android:onClick="sendMessage"
         android:text="J'accepte"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
